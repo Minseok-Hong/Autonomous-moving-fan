@@ -15,7 +15,8 @@ Our Final Project is ‘ An automatic moving fan ‘ which is devised for the ma
   4. go to the next screen and touch “start” to start moving the fan.
   5. move across the path and finally reach to the user destination
   
-  3 Algorithm
+3 Algorithm
+
 Algorithm: the main operation of our fan and instruction set of encountering the obstacles and
 processing to the inputs from Android App or Touch LCD.
 In constructing algorithm, we research many algorithm and ask for some advices from excellent
@@ -46,6 +47,7 @@ Output Screen:>
 A* algorithm
 
 4. Embedded
+
 Our function of each component in Embedded board is below.
 1. Keypad
 We use the rdata value to get the value of the matrix 4*4.(we only need 10 because we need
